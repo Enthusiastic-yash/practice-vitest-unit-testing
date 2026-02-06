@@ -1,0 +1,22 @@
+{
+  "name": "vitest-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enthusiastic-yash/practice-vitest-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enthusiastic-yash/practice-vitest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/Enthusiastic-yash/practice-vitest-unit-testing#readme",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
